@@ -14,7 +14,7 @@ namespace VanillaPlusPlusCharms
 {
     public class Class2 : Mod
     {
-        public Class2() : base("VanillaPlusPlusCharms") { }
+        public Class2() : base("Charm Vendor") { }
        // public override string GetVersion() => "0.1";
         public override void Initialize()
         {
